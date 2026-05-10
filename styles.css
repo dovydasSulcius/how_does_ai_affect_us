@@ -47,7 +47,7 @@ h3 {
 p.box {
     border-radius: 0px;
     padding: 16px;
-    background-color: #aaf;
+    background-color: #bbf;
     font-family: Arial, Helvetica, sans-serif;
     color: #222;
     line-height: 1.5;
@@ -62,12 +62,12 @@ p.box {
     flex-direction: column;
     align-items: center;
     padding: 8px;
-    background-color: #ccf;
+    background-color: #ddf;
 }
 
 .h3box {
     padding: 8px;
-    background-color: #bbf;
+    background-color: #ccf;
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
     line-height: 1.5;
@@ -93,7 +93,9 @@ p.box {
     h2 {text-align: center; margin: 0.2rem 0.1rem;}
     h3 {text-align: center;}
     main {padding: 1rem;}
-    .h2box {margin: 1rem 0.5rem 2rem;}
+    p.box {background-color: #aaf;}
+    .h2box {margin: 1rem 0.5rem 2rem; background-color: #ccf;}
+    .h3box {background-color: #bbf;}
 }
 
 @media (min-width: 1024px) {
