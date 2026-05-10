@@ -3,7 +3,7 @@ html {
 }
 
 header {
-    align-items: left;
+    text-align: left;
 }
 
 h1 {
@@ -88,7 +88,7 @@ p.box {
 
 @media (min-width: 768px) {
     html {font-size: 15px;}
-    header {align-items: center;}
+    header {text-align: center;}
     h1 {font-size: 3rem; text-align: center;}
     h2 {text-align: center; margin: 0.2rem 0.1rem;}
     h3 {text-align: center;}
