@@ -6,6 +6,7 @@ html {
     h1 {font-size: 3rem;}
     p {font-size: 10px;}
     main {padding: 1rem;}
+    .h2box {margin: 1rem 0.5rem 2rem;}
 }
 
 @media (min-width: 1024px) {
@@ -72,7 +73,6 @@ p.box {
     border-radius: 0px;
     padding: 8px;
     background-color: #ccf;
-    margin: 1rem 0.5rem 2rem;
 }
 
 .h3box {
