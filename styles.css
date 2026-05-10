@@ -5,11 +5,13 @@ html {
 @media (min-width: 768px) {
     h1 {font-size: 3rem;}
     p {font-size: 10px;}
+    main {padding: 1rem;}
 }
 
 @media (min-width: 1024px) {
     html {font-size: 20px;}
     h1 {font-size: 4rem;}
+    main {padding: 2rem;}
 }
 
 h1 {
