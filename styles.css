@@ -10,7 +10,7 @@ html {
     main {padding: 1rem;}
     h2 {margin: 0.2rem 0.1rem;}
     .h2box {margin: 1rem 0.5rem 2rem;}
-    .imageflexbox {flex-direction: row;}
+    .imageflexbox {display: flex; flex-direction: row-reverse; align-items: center;}
 }
 
 @media (min-width: 1024px) {
