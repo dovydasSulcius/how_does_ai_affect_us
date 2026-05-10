@@ -37,7 +37,6 @@ h3 {
     outline-width: 1rem;
     line-height: 1;
     margin: 0.3rem 0.2rem;
-    font-size: 1.25rem;
     text-align: left;
 }
 
@@ -49,6 +48,7 @@ p.box {
     color: #222;
     line-height: 1.5;
     margin: 0.8rem 0.5rem;
+    font-size: 1.1rem;
     font-weight: normal;
     text-align: justify;
 }
