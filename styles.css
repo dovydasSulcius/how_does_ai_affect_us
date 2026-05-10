@@ -96,5 +96,7 @@ p.box {
 
 .imageflexbox {
     display: flex;
+    align-items: center;
+    justify-items: center;
     flex-direction: column;
 }
